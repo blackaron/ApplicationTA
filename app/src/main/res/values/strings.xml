@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="sign_in">sign up</string>
+    <string name="welcome_to_home_page">welcome to home page</string>
+</resources>
